@@ -1,11 +1,11 @@
-// Solution í•¨ìˆ˜ë¥¼ ìž‘ì„±í•˜ì„¸ìš”
+// Solution °ªÀ» Á¤ÀÇÇÏ½Ã¿À
 
 import java.util.*;
 
 class Solution {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
-
+        System.out.println(int a);
         return answer;
     }
 }
