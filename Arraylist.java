@@ -1,6 +1,8 @@
 
 import java.util.ArrayList;
 
+import javax.swing.plaf.synth.SynthSeparatorUI;
+
 public class Arraylist {
 
 	public static void main(String[] args) {
@@ -21,6 +23,18 @@ public class Arraylist {
 		
 		arr1.addAll(arr2);//arr1.addAll(arr2);
 		System.out.println(arr1);
+		
+		arr2.remove(3);
+		System.out.println(arr2);
+		
+		arr2.clear();
+		System.out.println(arr2);
+		
+		arr1.removeAll(arr2);
+		arr1.set(3, "¿Âº∫»∆");
+		System.out.println(arr1);
+		
+		
 		
 
 	}
