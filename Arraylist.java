@@ -1,8 +1,6 @@
 
 import java.util.ArrayList;
 
-import javax.swing.plaf.synth.SynthSeparatorUI;
-
 public class Arraylist {
 
 	public static void main(String[] args) {
