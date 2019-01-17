@@ -1,4 +1,4 @@
-// Solution 함수를 작성하세요
+// Solution
 
 import java.util.*;
 
